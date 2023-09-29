@@ -1,0 +1,7 @@
+#new
+#solve x x-3*x+2 +7-2^3=12.5
+#define f(x) = 1/(2-x)
+#print f(2)
+#print f(1)^30
+#print f(0)+f(1)-f(-2)+1-7^2
+#end

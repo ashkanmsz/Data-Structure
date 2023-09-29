@@ -1,0 +1,9 @@
+#new
+#solve t (2*t)^2=t+3
+#define PI = 3.14
+#solve x 1+x^2=0
+#define f(x)=x-1/2*x+7
+#define m = 3
+#print m^3-f(1)+0
+#define y=(2+(3*2)
+#end

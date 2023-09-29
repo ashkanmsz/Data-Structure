@@ -1,0 +1,7 @@
+#new
+#define d(x,y) = x^2 + y^2
+#define u(t) = 3^t-1
+#print d(1,0) + u(0)
+#print u(2)
+#print 1*2*2-3*2
+#end

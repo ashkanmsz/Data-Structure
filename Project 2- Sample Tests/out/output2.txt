@@ -1,0 +1,4 @@
+>>t = 1, -0.75
+>>x = undefined in real numbers
+>>19.5
+>>err3 : wrong syntax
